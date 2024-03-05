@@ -13,7 +13,7 @@ Este exercício de estrutura condicional (SWITCH-CASE) em Java recebe um número
 ## Como Usar
 
 1. Certifique-se de ter o Java instalado em seu sistema.
-2. Clone este repositório ou baixe o arquivo `Identificador-dia-semana.java`.
+2. Clone este repositório ou baixe o arquivo `Main.java`.
 3. Compile o código Java:
 
    ```bash
